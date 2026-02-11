@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kaikaisai.github.io/shi/sitemap.xml
+Sitemap: https://kaikaisai.github.io/sitemap.xml
