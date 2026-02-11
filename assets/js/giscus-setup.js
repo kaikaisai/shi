@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "kaikaisai/kaikaikk.github.io",
+    "data-repo": "kaikaisai/shi",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
